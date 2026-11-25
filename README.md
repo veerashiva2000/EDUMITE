@@ -2,7 +2,7 @@
 
 # 🎓 EDUMITE - Complete AI-Powered Learning Ecosystem
 
-### *Built by SYLESH PAVENDAN*
+### 
 
 [![React](https://img.shields.io/badge/React-18-C9B458?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-C27BA0?style=for-the-badge&logo=typescript&logoColor=black)](https://www.typescriptlang.org/)
